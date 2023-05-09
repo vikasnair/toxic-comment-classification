@@ -4,3 +4,4 @@ pids
 *.seed
 *.pid.lock
 .DS_Store
+quora-insincere*
