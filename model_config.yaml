@@ -1,0 +1,8 @@
+architectureType: sklearn
+classNames:
+- negative
+- positive
+metadata:
+  model_type: Logistic Regression
+  regularization: None
+name: Sentiment analysis model

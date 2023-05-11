@@ -1,0 +1,12 @@
+classNames:
+- negative
+- positive
+columnNames:
+- qid
+- question_text
+- target
+- predictions
+label: training
+labelColumnName: target
+predictionScoresColumnName: predictions
+textColumnName: question_text
